@@ -4,3 +4,5 @@ A catch-all repository for investigating stuff I'm interested in, doing backgrou
 ## Things to generally learn/investigate
 
 - [ ] Graph neural networks
+
+## Specific experiments to do
