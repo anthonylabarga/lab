@@ -6,3 +6,5 @@ A catch-all repository for investigating stuff I'm interested in, doing backgrou
 - [ ] Graph neural networks
 
 ## Specific experiments to do
+
+- [ ] How well NNs learn simple functions (sine, etc.) based on number of provided examples, activation functions, etc.
